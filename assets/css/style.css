@@ -302,6 +302,19 @@ h6 {
     margin-bottom: 30px;
   }
 }
+  #hero {
+  width: 100%;
+  height: 100vh;
+  background: url("../img/srk.jpeg") top center;
+  background-size: cover;
+ 
+  
+}
+
+.hero-container{
+ margin-top: 30%;
+}
+
 
 /*--------------------------------------------------------------
 # Sections General
